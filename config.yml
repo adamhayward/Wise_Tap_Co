@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "125347332254"
+  store: wisetapco.myshopify.com
+  ignore_files: 
+    - config/settings_data.json
